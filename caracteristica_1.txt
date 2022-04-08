@@ -9,3 +9,5 @@ para el 2
 Cambio olvidado 
 
 añado para subir al servidor 
+
+cambio sin push
