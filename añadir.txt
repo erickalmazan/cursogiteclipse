@@ -2,4 +2,4 @@ añado un contenido
 
 Cambios para la prueba de git hub
 
-Un cambio hecho por un compañero
+Un cambio hecho por un compañero 2
